@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /includes/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /rapport_initial/
+Disallow: Audit_SEO.ods
+Disallow: style.css
