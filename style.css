@@ -753,8 +753,9 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #9b5d40;
     padding: 40px 40px 40px 40px;
+    opacity: .8;
 }
 
 .bold-link {
@@ -826,7 +827,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -1053,4 +1054,9 @@ h4 {
 }
 .bloc-courriel {
     float: none;
+}
+
+#img-logo-presentation {
+    width: 100px;
+    height: 100px;
 }
