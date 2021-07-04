@@ -477,6 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    margin: 2rem auto;
 }
 
 .icon-lg {
@@ -1052,9 +1053,9 @@ h4 {
 	font-weight: 900;
 	text-align: center;
 }
-.bloc-courriel {
+/* .bloc-courriel {
     float: none;
-}
+} */
 
 #img-logo-presentation {
     width: 100px;
